@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac184fbb.css",
+    "main.js": "/static/js/main.3b17257b.js",
+    "static/js/787.3f5291b5.chunk.js": "/static/js/787.3f5291b5.chunk.js",
+    "static/media/Geometria-Medium.eot": "/static/media/Geometria-Medium.a689bd1da27b426f9a82.eot",
+    "static/media/Geometria-Medium.ttf": "/static/media/Geometria-Medium.a08bd436e4c28b3d487e.ttf",
+    "static/media/Geometria-Bold.eot": "/static/media/Geometria-Bold.c466818e46f98d288a5f.eot",
+    "static/media/Geometria-Bold.ttf": "/static/media/Geometria-Bold.1873fe842023d533821b.ttf",
+    "static/media/Geometria-Medium.woff": "/static/media/Geometria-Medium.ce81051a1ed94e89b4e1.woff",
+    "static/media/Geometria-Bold.woff": "/static/media/Geometria-Bold.3a9ed34be5c5b3d8fc3c.woff",
+    "index.html": "/index.html",
+    "main.ac184fbb.css.map": "/static/css/main.ac184fbb.css.map",
+    "main.3b17257b.js.map": "/static/js/main.3b17257b.js.map",
+    "787.3f5291b5.chunk.js.map": "/static/js/787.3f5291b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac184fbb.css",
+    "static/js/main.3b17257b.js"
+  ]
+}
